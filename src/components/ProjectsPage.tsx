@@ -9,6 +9,13 @@ const allProjects = [
     link: 'https://vexx-squad.online/',
     synopsis: 'Plataforma oficial do Vexx Squad. Um ambiente digital moderno e imersivo, projetado para destacar nossos serviços de desenvolvimento, alta performance e soluções exclusivas. Foco total em conversão, design premium e experiência do usuário.',
     iframeUrl: 'https://vexx-squad.online/'
+  },
+  {
+    title: 'Vexx AI Business Suite',
+    category: 'SaaS Enterprise & ERP',
+    link: 'https://vexx-ai-business-suite.onrender.com/',
+    synopsis: 'Plataforma robusta de automação e gestão empresarial impulsionada por IA. Oferece dashboards de alta performance para métricas, CRM integrado, geolocalização e automações avançadas. Um verdadeiro ecossistema corporativo focado em maximizar a produtividade e otimizar processos.',
+    iframeUrl: 'https://vexx-ai-business-suite.onrender.com/'
   }
 ];
 
